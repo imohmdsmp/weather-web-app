@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f692629.css",
+    "main.js": "/static/js/main.6a3b23a6.js",
+    "static/media/chuttersnap-olqdyg9Bxg4-unsplash.jpg": "/static/media/chuttersnap-olqdyg9Bxg4-unsplash.11c8104c36c4985ac0d1.jpg",
+    "index.html": "/index.html",
+    "main.6f692629.css.map": "/static/css/main.6f692629.css.map",
+    "main.6a3b23a6.js.map": "/static/js/main.6a3b23a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f692629.css",
+    "static/js/main.6a3b23a6.js"
+  ]
+}
